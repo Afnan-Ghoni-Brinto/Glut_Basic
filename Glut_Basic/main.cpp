@@ -14,7 +14,7 @@ bool animationRunning = true;
 const float PI = 3.14159265358979323846f;
 
 // =====================================
-// 1. DRAW A POINT
+// 1. DRAW POINT
 // =====================================
 
 void drawPoint()
